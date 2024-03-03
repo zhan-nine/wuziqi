@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "gameboard.h": "c",
+        "limits": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "myhead.h": "c",
+        "ctype.h": "c"
+    }
+}
